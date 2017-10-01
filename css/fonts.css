@@ -1,0 +1,32 @@
+/*  */
+
+@font-face {
+    font-family: "Lato-Regular";
+    src: url("../Fonts/Lato/Lato-Regular.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "PlayfairDisplay-Italic";
+    src: url("../Fonts/PlayfairDisplay-Italic.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Lato-Bold";
+    src: url("../Fonts/Lato/Lato-Bold.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "KrinkesDecorPERSONAL";
+    src: url("../Fonts/KrinkesDecorPERSONAL.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Lato-BoldItalic";
+    src: url("../Fonts/Lato/Lato-BoldItalic.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
