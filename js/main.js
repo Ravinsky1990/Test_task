@@ -54,12 +54,15 @@ $(document).ready(function () {
 });
 //modal
 $(document).ready(function () {
-    
-    $("div.header_top_bar_menu ul li:last-child").on("click", function(e){
+    $(".modal_popup *").on("click", function(e){
         e.stopPropagation();
+    })
+    $("div.header_top_bar_menu ul li:last-child").on("click", function(e){
+        
         $(".modal_popup").fadeIn();
     });
     $(".modal_popup,.form_modal button").on("click",function(){
+        
         $(this).fadeToggle();
     });
 });
